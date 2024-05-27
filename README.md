@@ -8,6 +8,10 @@ This repository hosts a proof-of-concept application demonstrating a "challenge-
 - **Enhanced Security**: Public keys are submitted during account creation and stored securely. Private keys remain confidential and are never transmitted over the network.
 - **User Privacy**: Ensures that the identity verification process is private and secure, suitable for environments requiring high security without extensive personal data collection.
 
+## Video
+https://github.com/KyanoTrevisan/PGP-Verification/assets/91180412/cab78193-436e-4558-b084-e6a311824d20
+
+
 ## Usage
 1. **Visit the Application**: Go to the hosted application on Streamlit at [PGP Verification App](https://pgp-verification.streamlit.app/).
 2. **Submit Your Public Key**: Enter your PGP public key in the provided text area. This step simulates the public key submission that would occur during account creation.
